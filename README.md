@@ -21,9 +21,6 @@ I am a passionate MSc Software Development graduate form Queen's University, Bel
 
  ## 🏆 Achievements
 
-- 🌟 Completed 
-
-
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/aejmcclelland)
